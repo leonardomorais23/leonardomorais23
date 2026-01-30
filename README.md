@@ -6,7 +6,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=36BCF7FF&section=header&fontSize=-2" alt="header"/> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Fala+Dev!+Eu+sou+Leonardo+Morais;Sou+desenvolvedor+J%C3%BAnior)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Fala+Dev!+Eu+sou+Leonardo+Morais;Sou+desenvolvedor)](https://git.io/typing-svg)
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
@@ -19,7 +19,7 @@
 
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,nodejs,express,html,css,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,nodejs,express,html,css,postman,laravel,mysql,phpstorm,vue)](https://skillicons.dev)
 
 <!-- ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev) -->
